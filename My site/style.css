@@ -1,0 +1,23 @@
+body {
+  background-color: powderblue;
+  background-image: url("assets/imgs/DLLo.gif");
+}
+
+
+
+
+h1 {
+  font-family: "Courier New", Courier, monospace;
+  color: #6f2549;
+}
+
+h2 {
+	font-family: "Courier New", Courier, monospace;
+	color: black;
+}
+
+
+h3 {
+  font-family: "Courier New", Courier, monospace;
+	color: black;
+}
