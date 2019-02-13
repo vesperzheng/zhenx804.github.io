@@ -1,0 +1,74 @@
+
+* {
+    padding: 0px;
+    margin: 20px;
+}
+
+body {
+	color: white;
+    font-family: verdana, sans-serif;
+    text-align: left;
+    font-size: 48px;
+    line-height: 1.4;
+    background-color: black;
+}
+
+
+
+.cursor {
+  cursor: url(rose.png), auto;
+}
+
+
+.gradient-fill {
+  background: -webkit-linear-gradient(#40bfbf, #8e53c6);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  transition: all 0.8s ease;
+}
+
+.location {
+	font-style: italic;
+  background-color: #d78894;
+  text-decoration: none;
+  color: #000;
+  position: relative;
+
+}
+
+.location:hover:after {
+display: block;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
+.band {
+	font-style: italic;
+  background-color: #d78894;
+  text-decoration: none;
+  color: #000;
+  position: relative;
+
+}
+
+
+.band:hover:after {
+content: url(band.jpg)
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
+
+
+
+
+
+
+
+

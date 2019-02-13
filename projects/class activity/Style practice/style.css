@@ -1,15 +1,13 @@
 
-.box{
-	width:100px;
-	height:100px;
+
+.container{
+	display: 
 }
- 
-.red{
-	background:#f00;
-}
-.green{
-	background:#0f0;
-}
-.blue{
-	background:#00f;
+
+
+
+.box {
+  width:200px;
+  height: 200px;
+  color:orange;
 }
