@@ -1,0 +1,174 @@
+/*
+  Coding from Life – Sketch 1: fixed layout
+
+  For sketch 1 you'll be positioning elements relative to an element with a fixed
+  width and height. For this sketch you can position elements by using pixel values.
+*/
+
+body {
+  background-color: black;
+}
+
+.frame {
+  width: 1000px;
+  height: 600px;
+  background: white;
+  margin: 30px auto;
+  position: relative;
+}
+
+/* Your CSS goes here */
+
+
+
+ .table {
+
+ 	position:absolute;
+      border-bottom: 160px solid black;
+      border-left: 60px solid white;
+      border-right: 60px solid white;
+      left: 0px;
+      top: 450px;
+      right: 0px;
+      height: 0;
+      width: 880px;
+      background: darkgray;
+      z-index: auto;
+
+
+
+}
+ 
+
+ .book-top {
+
+ 	position:absolute;
+ 	top: 400px;
+ 	left: 50px;
+ 	width: 200px;
+      height: 100px;
+      background: yellow;
+        z-index: 1;
+
+ }
+
+
+ .book-middle {
+     position:absolute;
+     top: 450px;
+     left: 50px;
+ 	width: 220px;
+    height: 20px;
+      background: lightgray;
+      z-index: 1;
+ }
+
+ .book-bottom {
+ 	 position:absolute;
+     top: 480px;
+   left: 50px;
+ 	width: 220px;
+    height: 20px;
+      background: gray;
+      z-index: 1;
+}
+
+
+ .vase {
+
+    position:absolute;
+ 	top: 350px;
+    left: 350px;
+ 	width: 80px;
+      height: 160px;
+      background: lightgray;
+
+
+
+ }
+
+
+.orange1 {
+	position:absolute;
+ 	top: 500px;
+    left: 300px;
+	width: 80px;
+      height: 50px;
+      background: orange;
+      border-radius: 100px / 50px;
+
+}
+
+.orange2 {
+	position:absolute;
+ 	top: 500px;
+    left: 400px;
+	width: 80px;
+      height: 50px;
+      background: orange;
+      border-radius: 100px / 50px;
+
+}
+
+.orange3 {
+	position:absolute;
+ 	top: 500px;
+    left: 480px;
+    width: 80px;
+      height: 50px;
+      background: orange;
+      border-radius: 100px / 50px;
+}
+
+.manekicat {
+    position:absolute;
+ 	top: 450px;
+    left: 700px;
+ 	width: 80px;
+      height: 100px;
+      background: lightgray;
+}
+
+.flower1 {
+	position:absolute;
+ 	
+    left: 400px;
+	width: 0;
+      height: 0;
+      border: 20px solid transparent;
+      border-bottom: 70px solid red;
+      top: 150px;
+}
+
+.flower2 {
+	position:absolute;
+ 	
+    left: 350px;
+	width: 0;
+      height: 0;
+      border: 20px solid transparent;
+      border-bottom: 70px solid red;
+      top: 160px;
+}
+
+
+.camera {
+	 position:absolute;
+ 	top: 380px;
+    left: 150px;
+ 	width: 80px;
+      height: 40px;
+      background: black;
+      z-index: 2;
+
+}
+
+
+
+
+
+
+
+
+
+
