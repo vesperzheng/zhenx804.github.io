@@ -76,10 +76,10 @@ body {
 
  .vase {
 
-    position:absolute;
- 	top: 350px;
-    left: 350px;
- 	width: 80px;
+      position:absolute;
+ 	    top: 350px;
+      left: 350px;
+ 	    width: 80px;
       height: 160px;
       background: lightgray;
 

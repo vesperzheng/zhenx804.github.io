@@ -1,0 +1,48 @@
+
+
+* {
+    padding: 0px;
+    margin: 10px;
+    background-color: lightblue;
+}
+
+
+.cursor {
+  cursor: url(smile.png), auto;
+}
+
+.title {
+    
+    font-family: verdana, sans-serif;
+    text-align: center;
+    font-size: 34px;
+    line-height: 1.4;
+    color: navy;
+
+}
+
+.globe {
+
+transition: all 1s ease;
+}
+
+.globe:hover {
+  -webkit-transform: rotate(-360deg) scale(0.8);
+  transform: rotate(-360deg) scale(0.8);
+  cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -20,3 +20,239 @@ body {
 }
 
 /* Your CSS goes here */
+
+
+.table {
+
+  position:absolute;
+      border-bottom: 10vw solid black;
+      border-left: 10vw solid white;
+      border-right: 10vw solid white;
+      left: 0vw;
+      top: 48vw;
+      right: 0vw;
+      height: 0;
+      width: 75vw;
+      background: darkgray;
+      z-index: auto;
+}
+ 
+
+ .book-top {
+
+  position:absolute;
+  top: 47vw;
+  left: 8vw;
+  width: 14vw;
+      height: 1vw;
+      background: yellow;
+        z-index: 1;
+
+ }
+
+
+ .book-middle {
+     position:absolute;
+     top: 48vw;
+     left: 7vw;
+  width: 13vw;
+    height: 2vw;
+      background: lightgray;
+      z-index: 1;
+ }
+
+ .book-bottom {
+   position:absolute;
+     top: 50vw;
+   left: 7vw;
+  width: 17vw;
+    height: 4vw;
+      background: gray;
+      z-index: 1;
+}
+
+
+ .vase {
+
+      position:absolute;
+      top: 34vw;
+      left: 35vw;
+      width: 8vw;
+      height: 16vw;
+      background: lightgray;
+      z-index: 1;
+       }
+
+
+.orange1 {
+  position:absolute;
+  top: 50vw;
+    left: 30vw;
+  width: 6vw;
+      height: 3vw;
+      background: orange;
+      border-radius: 90vw / 60vw;
+
+}
+
+.orange2 {
+  position:absolute;
+  top: 52vw;
+    left: 35vw;
+  width: 6vw;
+      height: 3vw;
+      background: orange;
+      border-radius: 90vw / 60vw;
+
+}
+
+.orange3 {
+  position:absolute;
+  top: 50vw;
+    left: 45vw;
+    width: 6vw;
+      height: 3vw;
+      background: orange;
+      border-radius: 90vw / 60vw;
+}
+
+.manekicat {
+    position:absolute;
+  top: 46vw;
+    left: 62vw;
+  width: 5vw;
+      height: 7vw;
+      background: lightgray;
+}
+
+.flower1 {
+  position:absolute;
+  
+      left: 40vw;
+      width: 0;
+      height: 0;
+      border: 2vw solid transparent;
+      border-bottom: 3vw solid #990000;
+      top: 20vw;
+}
+
+.flower2 {
+  position:absolute;
+  
+      left: 35vw;
+      width: 0;
+      height: 0;
+      border: 2vw solid transparent;
+      border-bottom: 3vw solid #990000;
+      top: 22vw;
+}
+
+.flower3 {
+  position:absolute;
+  
+      left: 36vw;
+      width: 0;
+      height: 0;
+      border: 2vw solid transparent;
+      border-bottom: 3vw solid #990000;
+      top: 19vw;
+}
+
+.flower4 {
+  position:absolute;
+  
+      left: 35vw;
+      width: 0;
+      height: 0;
+      border: 2vw solid transparent;
+      border-bottom: 3vw solid #990000;
+      top: 17vw;
+}
+
+.stem1 {
+      
+      position:absolute;
+      top: 25vw;
+      left: 42vw;
+      width: 0.5vw;
+      height: 25vw;
+      background: #663300;
+      z-index: 0;
+
+}
+
+.stem2 {
+      
+      position:absolute;
+      top: 27vw;
+      left: 37vw;
+      width: 0.5vw;
+      height: 23vw;
+      background: #663300;
+      z-index: 0;
+
+}
+
+.stem3 {
+      
+      position:absolute;
+      top: 24vw;
+      left: 38vw;
+      width: 0.5vw;
+      height: 23vw;
+      background: #663300;
+      z-index: 0;
+
+}
+
+
+.camera {
+   position:absolute;
+      top: 44vw;
+      left: 10vw;
+      width: 5vw;
+      height: 3vw;
+      background: black;
+      z-index: 2;
+
+}
+
+
+.kettle {
+      position:absolute;
+      top: 44vw;
+      left: 70vw;
+      width: 8vw;
+      height: 6vw;
+      background: grey;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

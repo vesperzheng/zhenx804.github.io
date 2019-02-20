@@ -1,0 +1,17 @@
+* {
+    padding: 0px;
+    margin: 10px;
+    background-color: #c6c6ec;
+}
+
+
+.content {
+    
+    margin-left: 30px;
+    font-family: verdana, sans-serif;
+    text-align: left;
+    font-size: 34px;
+    line-height: 1.4;
+    color: #304f91;
+
+}

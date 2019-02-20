@@ -1,0 +1,27 @@
+* {
+    padding: 0px;
+    margin: 10px;
+    background-color: white;
+}
+
+.cursor {
+  cursor: url(smile.png), auto;
+}
+
+.content {
+    font-family: verdana, sans-serif;
+    text-align: left;
+    font-size: 20px;
+    line-height: 1.4;
+    color: navy;
+}
+
+
+.gradient-fill {
+
+	background: linear-gradient(#e128ff, #ff5151);
+    background-clip: text;
+    text-fill-color: transparent;
+    transition: all 0.8s ease;
+    }
+
