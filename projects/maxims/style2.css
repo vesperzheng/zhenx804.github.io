@@ -4,28 +4,46 @@
 
 * {
     padding: 0px;
-    margin: 10px;
-    background-color: lightpink;
+    
 }
 
+body {
+  background-image: url("gifs/rainbow.gif");
+}
 
 .cursor {
   cursor: url(smile.png), auto;
 }
 
+.shape{
+    width: 200px;
+      height: 100px;
+      background: red;
+
+
+}
+
+
+.gradient-fill {
+
+  background: -webkit-linear-gradient(#742b82, #BB3E3E);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  transition: all 0.8s ease;
+}
+
 .intro {
-	 font-family: verdana, sans-serif;
-    text-align:center;
-    font-size: 14px;
-    line-height: 1.4;
-    color: black
+	font-family: 'VT323', monospace;
+    font-size: 50px;
+    line-height: 0.8;
+    
 
 }
 
 .content {
-	font-family: verdana, sans-serif;
+	font-family: 'VT323', monospace;
     text-align:center;
-    font-size: 30px;
+    font-size: 40px;
     line-height: 1.8;
     color: black
 

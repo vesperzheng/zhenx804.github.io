@@ -3,7 +3,11 @@
 * {
     padding: 0px;
     margin: 10px;
-    background-color: lightblue;
+   
+}
+
+body {
+  background-image: url("gifs/rainbow.gif");
 }
 
 
@@ -21,6 +25,10 @@
 
 }
 
+.content {
+  position: absolute;
+}
+
 .globe {
 
 transition: all 1s ease;
@@ -31,6 +39,80 @@ transition: all 1s ease;
   transform: rotate(-360deg) scale(0.8);
   cursor: pointer;
 }
+
+.gif0 {
+  margin-top: 80px;
+margin-left: 450px;
+position: absolute;
+
+}
+
+.gif1 {
+
+margin-top: 380px;
+margin-left: 280px;
+position: absolute;
+}
+
+.gif2 {
+
+margin-top: 380px;
+margin-left: 500px;
+position: absolute;
+}
+
+.gif3 { 
+
+margin-top: 200px;
+margin-left: 80px;
+position: absolute;
+}
+
+.gif4 {
+
+margin-top: 400px;
+margin-left: 100px;
+position: absolute;
+}
+
+.gif5 {
+
+margin-top: 400px;
+margin-left: 800px;
+position: absolute;
+}
+
+.gif6 {
+
+margin-top: 0px;
+margin-left: 300px;
+position: absolute;
+}
+
+.gif7 {
+
+margin-top: 0px;
+margin-left: 20px;
+position: absolute;
+}
+
+.gif8 {
+
+margin-top: 30px;
+margin-left: 900px;
+position: absolute;
+}
+
+.gif9 {
+
+margin-top: 470px;
+margin-left: 300px;
+position: absolute;
+}
+
+
+
+
 
 
 
