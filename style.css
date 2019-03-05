@@ -1,23 +1,31 @@
 body {
-  background-color: powderblue;
+  
   background-image: url("assets/imgs/DLLo.gif");
 }
 
 
 
 
-h1 {
-  font-family: "Courier New", Courier, monospace;
-  color: #6f2549;
-}
+.name {
+    position: relative;
+    font-family: 'Carrois Gothic SC', sans-serif;
+    font-size: 50px;
+    margin-top: 20px;
+    color: #77ABFA;
+    margin-left: 150px;
+   
 
-h2 {
-	font-family: "Courier New", Courier, monospace;
-	color: black;
-}
+ }
 
 
-h3 {
-  font-family: "Courier New", Courier, monospace;
-	color: black;
-}
+.catalog {
+
+ 	position: relative;
+    font-family: 'Carrois Gothic SC', sans-serif;
+    font-size: 30px;
+    margin-top: 110px;
+   color: #77ABFA;
+    margin-left: 280px;
+  z-index: 4;
+
+ }
