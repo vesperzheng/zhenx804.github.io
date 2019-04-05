@@ -1,7 +1,3 @@
-body {
-  
-  background-image: url("assets/imgs/DLLo.gif");
-}
 
 
 
@@ -29,3 +25,33 @@ body {
   z-index: 4;
 
  }
+
+ .me {
+  position: fixed;
+  margin-left: 650px;
+  margin-top: 30px;
+  z-index: 2;
+}
+
+
+
+@keyframes skew {
+
+ 0% {
+  transform: skewX(-20deg);
+  }
+
+
+ 50% {
+  transform: skewY(10deg);
+ }
+ 
+ 100% {
+    transform: skewX(-20deg);
+  }
+}
+
+.me{
+  animation: skew 15s ease-in-out infinite;
+}
+
