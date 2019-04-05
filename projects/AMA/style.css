@@ -1,0 +1,36 @@
+html, body {
+	height: 100%;
+	padding: 20px;
+	
+}
+
+
+
+
+.container {
+	display: flex;
+	align-items: center;
+	height: 80%;
+	flex-wrap: nowrap;
+	
+}
+
+.item {
+/*	display: flex;
+	justify-content: center;
+	align-items: center;*/
+	margin: 30px;
+	
+}
+
+
+img {
+	width: 130px;
+}
+
+
+
+.has-been-clicked {
+	color: red;
+	
+}
