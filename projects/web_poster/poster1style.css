@@ -1,0 +1,84 @@
+
+
+
+body {
+	background-color: #5553C6;
+	padding: 5vw;
+}
+
+.name {
+	font-size: 20vw;
+	text-transform: uppercase;
+	line-height: 18vw;
+	font-family: arial black;
+	margin-bottom: 2vw;
+	
+}
+
+
+
+
+
+
+.time {
+	font-size: 3vw;
+    font-family: arial;
+    animation: font2 1s infinite;
+
+}
+
+.location {
+    font-family: arial;
+    font-size: 3vw;
+    animation: font2 1s infinite;
+    
+
+}
+
+
+
+
+
+
+
+@keyframes font2 {
+  0% {
+    opacity: 1;
+  }
+
+50% {
+	opacity: 0;
+}
+
+  100% {
+    opacity: 1;
+  }
+
+  @keyframes font1 {
+  0% {
+    transform-style: preserve-3d;
+  }
+
+50% {
+	
+}
+
+  100% {
+   
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
