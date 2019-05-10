@@ -1,0 +1,70 @@
+  
+
+
+body{
+  background-color: white;
+  margin: 3vw;
+}
+
+
+
+ button {
+
+border: none;
+  
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: ;
+  display: inline-block;
+  font-size: 20px;
+  margin-top: 10px;
+  font-family: 'Roboto Mono', monospace;
+
+
+ }
+
+ button {
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+}
+
+button:hover {
+  background-color: violet; 
+}
+
+
+
+
+ input {
+
+ 	height: 200px;
+ 	width: 400px;
+ 	margin-top: 5vw;
+ 	font-family: 'Roboto Mono', monospace;
+ 	font-size: 30px;
+ 	background-color: black;
+    color:white;
+
+
+
+
+ }
+
+ .output{
+ 	width: 800px;
+ 	height:500px;
+ 	margin-top: 30px;
+ 	margin-bottom: 20px;
+ 	text-align: center;
+ }
+
+
+
+
+
+
+
+
+
+
+
